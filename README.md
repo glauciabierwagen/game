@@ -1,4 +1,4 @@
-# Game + this will be highlighted in green
+#  Game
 
  Building a simple game and manipulating the DOM (Exercise)
  
