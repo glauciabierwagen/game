@@ -11,6 +11,6 @@ Instructions step by step(variables, functions, etc. ) are written in the file s
 
 <b> Extra Materials </b>
 
-- Developer Mozilla. Introduction to the DOM. Avaliable at: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction. (English/Portuguese).
-- React Tutorial. DOM Elements. Available at: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction. (English/Portuguese).
-- Curso em vídeo. Introdução ao DOM. Available at: https://youtu.be/WWZX8RWLxIk. (Portuguese Video)
+- Developer Mozilla. <i> Introduction to the DOM.</i> Avaliable at: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction. (English/Portuguese).
+- React Tutorial. <i> DOM Elements. </i> Available at: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction. (English/Portuguese).
+- Curso em vídeo. <i> Introdução ao DOM. </i>  Available at: https://youtu.be/WWZX8RWLxIk. (Portuguese Video)
