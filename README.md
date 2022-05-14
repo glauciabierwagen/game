@@ -13,4 +13,4 @@ Instructions step by step(variables, functions, etc. ) are written in the file s
 
 - Developer Mozilla. <i> Introduction to the DOM.</i> Avaliable at: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction. (English/Portuguese).
 - React Tutorial. <i> DOM Elements. </i> Available at: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction. (English/Portuguese).
-- Curso em vídeo. <i> Introdução ao DOM. </i>  Available at: https://youtu.be/WWZX8RWLxIk. (Portuguese Video)
+- Curso em vídeo. <i> Introdução ao DOM. </i>  Available at: https://youtu.be/WWZX8RWLxIk. (Portuguese Video).
