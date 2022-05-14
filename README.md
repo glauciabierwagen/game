@@ -1,4 +1,4 @@
-# <span style="color: green"> Game </span>
+# Game + this will be highlighted in green
 
  Building a simple game and manipulating the DOM (Exercise)
  
