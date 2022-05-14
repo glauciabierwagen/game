@@ -1,8 +1,8 @@
-#  Game
+# Game
 
  Building a simple game and manipulating the DOM (Exercise)
  
- # Guidelines </b>
+ ## Guidelines </b>
  
 - A random word will be displayed and the main goal of the game is to type the exact same word as fast as you can, and you must spell it correct. If you spell the word correct you'll get a score and also increase the time you have to play the game.
 
@@ -10,7 +10,7 @@
 
 Instructions step by step(variables, functions, etc. ) are written in the file script.js
 
-# Extra Materials </b>
+## Extra Materials </b>
 
 - Developer Mozilla. <i> Introduction to the DOM.</i> Avaliable at: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction. (English/Portuguese).
 - React Tutorial. <i> DOM Elements. </i> Available at: https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction. (English/Portuguese).
