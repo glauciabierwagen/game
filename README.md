@@ -1,4 +1,5 @@
 # Game
+<b> Course IT Women - Front End </b> 
 
  Building a simple game and manipulating the DOM (Exercise)
  
